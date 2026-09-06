@@ -1,0 +1,6 @@
+pageindex
+requests
+openai
+PyMuPDF
+streamlit
+python-dotenv
