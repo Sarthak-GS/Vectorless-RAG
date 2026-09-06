@@ -1,4 +1,4 @@
-# ⚡ Vectorless RAG (ZeroVec AI)
+# ⚡ Vectorless RAG 
 
 A multimodal, vectorless Retrieval-Augmented Generation (RAG) Streamlit application. Instead of relying on dense vector embeddings and vector databases, **Vectorless RAG** builds a hierarchical document tree summary using [PageIndex](https://pageindex.ai), uses a high-capacity text LLM via [OpenRouter](https://openrouter.ai) to reason over the tree structure for precise section retrieval, and uses a Vision-Language Model (**VLM**) to answer questions directly from rendered PDF page images.
 
